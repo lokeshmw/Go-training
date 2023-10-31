@@ -1,4 +1,4 @@
-package account
+package github.com/lokeshmw/Go-training/tree/master/banking/account
 
 import (
     "errors"
